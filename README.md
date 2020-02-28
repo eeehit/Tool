@@ -19,6 +19,7 @@
  - Pycharm : https://www.jetbrains.com/ko-kr/pycharm/download/
  - Postgresql : https://www.postgresql.org/download/
  - PgAdmin : https://www.pgadmin.org/download/
+ - git : https://git-scm.com/downloads
 
 98. ETC
  - Kakao talk : https://www.kakaocorp.com/service/KakaoTalk
