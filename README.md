@@ -27,3 +27,5 @@
  - Kakao talk : https://www.kakaocorp.com/service/KakaoTalk
  - Slack : 
  - Openvpn : https://openvpn.net/community-downloads/
+ - JDK : https://www.oracle.com/java/technologies/javase-jdk13-downloads.html
+ - Tomcat : https://tomcat.apache.org/download-80.cgi
