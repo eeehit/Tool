@@ -19,3 +19,8 @@
  - Pycharm : https://www.jetbrains.com/ko-kr/pycharm/download/
  - Postgresql : https://www.postgresql.org/download/
  - PgAdmin : https://www.pgadmin.org/download/
+
+98. ETC
+ - Kakao talk : https://www.kakaocorp.com/service/KakaoTalk
+ - Slack : 
+ - Openvpn : https://openvpn.net/community-downloads/
