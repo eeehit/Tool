@@ -12,8 +12,10 @@
  
 4. Hacking
  - Burpsuite : https://portswigger.net/burp/releases/professional-community-2020-1?requestededition=community
- - DB : https://dbeaver.io/download/
- 
+ - dbeaver : https://dbeaver.io/download/
+ - wireshark : https://www.wireshark.org/download.html
+ - smsniff : 
+
 5. Dev(Python)
  - Python3 : https://www.python.org/downloads/windows/
  - Pycharm : https://www.jetbrains.com/ko-kr/pycharm/download/
